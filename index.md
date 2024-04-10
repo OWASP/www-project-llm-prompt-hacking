@@ -5,7 +5,7 @@ title: OWASP LLM Prompt Hacking
 tags: deliverables-tag
 level: 2
 type: 
-pitch: A Playground for LLM Prompt Hacking and Defensive Techniques
+pitch: A Playground for LLM Application Hacking and Defensive Techniques
 
 ---
 
