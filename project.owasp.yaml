@@ -1,0 +1,20 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Chetan Karande
+    email: chetan.karande@owasp.org
+    github: ckarande
+level: 2
+name: OWASP LLM Prompt Hacking
+pitch: A Playground for LLM Application Hacking and Defensive Techniques
+repositories:
+  - name: www-project-llm-prompt-hacking
+    url: https://github.com/OWASP/www-project-llm-prompt-hacking
+    description: OWASP Foundation Web Repository
+tags:
+  - deliverables-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-llm-prompt-hacking
